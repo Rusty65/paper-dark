@@ -1,13 +1,13 @@
 {
-    "name": "cnvs/paper-dark",
-    "description": "Canvas Dark Theme",
+    "name": "rusty65/paper-dark",
+    "description": "Canvas Dark Theme-modified",
     "keywords": ["canvas", "theme", "dark"],
     "type": "canvas-theme",
     "license": "MIT",
     "authors": [
         {
-            "name": "Patrick Reid",
-            "email": "reliq@reliqarts.com"
+            "name": "Francis Chan",
+            "email": "fykcha@gmail.com"
         }
     ],
     "require": {
