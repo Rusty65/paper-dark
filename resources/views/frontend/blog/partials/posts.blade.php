@@ -3,6 +3,11 @@
         <h2 class="post-title">
             <a href="{{ $post->url($tag) }}">{{ $post->title }}</a>
         </h2>
+        @if ($post->page_image)
+            <div class="text-center">
+                <img src="{{ asset($post->page_image) }}" class="post-hero">
+            </div>
+        @endif
         <p class="post-meta">
             {{ $post->published_at->diffForHumans() }} &#183; {{ $post->readingTime() }} MIN READ
             <br>
