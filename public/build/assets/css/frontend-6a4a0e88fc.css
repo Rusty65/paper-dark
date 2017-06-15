@@ -1,14 +1,6 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900italic,900,700italic,700,600italic,600,400italic,300,200italic,200,300italic");
 @import url("https:////fonts.googleapis.com/css?family=Source+Code+Pro:400,200,300,500,600,700,900");
-@font-face {
-  font-family: 'Unthrift First Personal';
-  src: url("/vendor/canvas/assets/fonts/unthriftfirstpersonal.eot");
-  /* IE9 Compat Modes */
-  src: url("/vendor/canvas/assets/fonts/unthriftfirstpersonal.woff2") format("woff2"), url("/vendor/canvas/assets/fonts/unthriftfirstpersonal.woff") format("woff"), url("/vendor/canvas/assets/fonts/unthriftfirstpersonal.ttf") format("truetype"), url("/vendor/canvas/assets/fonts/unthriftfirstpersonal.svg") format("svg");
-  /* Legacy iOS */
-}
-
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
@@ -7687,7 +7679,7 @@ button.close {
 .pager li > span {
   color: #999999;
   border: none;
-  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Exo 2', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 15px;
   font-weight: 400;
@@ -7903,7 +7895,7 @@ ul.pager > li > a {
 
 body {
   background: #3a3a3a;
-  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Exo 2', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 15px;
   color: #e2e2e2;
   text-rendering: optimizelegibility;
@@ -7988,7 +7980,7 @@ mark, .mark {
 }
 
 .btn {
-  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Exo 2', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 15px;
   font-weight: 800;
@@ -8033,7 +8025,7 @@ code, code[class*=language-], pre, pre[class*=language-] {
   border-radius: 3px !important;
   color: #f8f8f2;
   font-size: 13px !important;
-  font-family: 'Source Code Pro' !important;
+  font-family: 'Exo 2' !important;
   border-radius: 3px !important;
   box-shadow: rgba(0, 0, 0, 0.121569) 0px 1px 1px 0px;
   text-shadow: 0 1px #000;
@@ -8056,7 +8048,7 @@ code, code[class*=language-] {
   left: 0;
   width: 100%;
   z-index: 3;
-  font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Exo 2', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .navbar-custom .navbar-brand {
